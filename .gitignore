@@ -1,0 +1,15 @@
+*.axf
+*.o
+*.bak
+*.benan
+*.htm
+*.crf
+*.d
+*.dep
+*.iex
+*.map
+*.lnp
+*.lst
+*.uvgui
+*.uvopt
+
